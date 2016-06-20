@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: left;
+  margin-bottom: 5px;
+}
+h4 {
+  margin-top: 0px;
+  text-align: left;
+}
+body {
+  padding: 15px;
+  max-width: 650px;
+  margin: auto;
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+img {
+  margin: 10px;
+  border: 2px solid gray;
+  height: 300px;
+  display: inline-block;
+}
